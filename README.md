@@ -131,32 +131,6 @@ Computers are not smart. We need to give them step-by-step instructions to accou
 
 Computers cannot adapt, but we can. Your first pass at pseudocode will probably not cover everything. Once you know more, you may come back to update and refactor your pseudocode.
 
-***
-<a name="ind-practice"></a>
-## Independent Practice: Solve the Waiter Problem
-<!--I think between giving students time to solve this, and then discuss the answer, it will take closer to 10-15 minutes. What do you think?-->
-
-Using your newfound skills, you have five minutes to solve this:
-
-- A waiter has N tables, each with 2-4 guests.
-- The waiter makes rounds between each of their tables, the bar, and the kitchen.
-- The waiter takes drink orders for a new table, then submits them to the bar.
-- Drinks are delivered when all table orders are ready.
-<!--Does this mean when the orders for all N tables, or all the orders for guests at one table?  -->
-- The waiter takes food orders for a new table, then submits them to the kitchen.
-- Food is delivered when all table orders are ready.
-<!--Does this mean when the orders for all N tables, or all the orders for guests at one table?  -->
-- The waiter checks idle tables for additional requests, then submits them appropriately.
-- Additional requested items are delivered when all table orders are ready.
-
-
-***Q. In one sentence, what problem were you solving?***
-
-> A. Discuss the answers and the importance of identifying the problem.
-
-We realize you didn't have enough time to solve it. We hope that, through this exercise, you learned the importance of clearly identifying the problem.
-
-***
 <a name="approaching-problem"></a>
 ## Approaching a coding problem
 <!--Consider making this a guided practice and walking through a real example for each step. It might help students understand how to apply these questions to a pseudocode exercise.  -->
